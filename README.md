@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi! myself Kshitij Kaithal, </br> Second Year Undergratuate student from Aerospace Engineering. I love doing coding, exploring new things. Currently I am focussing on Deep Learning and Machine Learning concepts.
 <!--
 **kshitijk20/kshitijk20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
