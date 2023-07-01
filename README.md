@@ -1,5 +1,5 @@
 ### Hi!👋 myself Kshitij Kaithal, </br>
-- ✨ Second Year Undergratuate student from Aerospace Engineering. </br>
+- ✨ Fourth Year Undergratuate student from Aerospace Engineering. </br>
 - 😄 I love doing coding, exploring new things. </br>
 - 🔭 Currently I am focussing on Deep Learning and Machine Learning concepts.
 <!--
